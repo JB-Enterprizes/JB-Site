@@ -15,7 +15,7 @@
     <SocialIcons network="medium" fgColor="white"/>
   </a>
 
-  <a class="social-icon" href="https://discord.com/invite/9xJEzqYNQ7">
+  <a class="social-icon" href="https://discord.gg/jbstepan">
     <SocialIcons network="discord" fgColor="white"/>
   </a>
 
